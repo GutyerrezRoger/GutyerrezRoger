@@ -1,8 +1,3 @@
-<!-- Banner com pixel art (exemplo com emoji por enquanto, pode ser substituído por imagem futuramente) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/public/graphics/emojis/star2.png" width="50" />
-</p>
-
 <h1 align="center">E aí! Eu sou o Guty 👋</h1>
 
 <p align="center">
@@ -49,6 +44,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/pKzFfAdVAsO1e/giphy.gif" width="120" /><br>
-  <small>✨ Um pouco de pixel art pra manter o estilo.</small>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNlZnNkdHJxamRkbDl5aWxweHV2eG9jZWI3NXdybGM4Y2lodThwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" /><br>
+
 </p>
