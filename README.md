@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gutyerrez-roger-426851155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/GutyerrezRoger" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://gutyerrezroger.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-732407?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="[https://gutyerrezroger.github.io](https://gutyerrezroger.github.io/Dev-e-fotografo/)" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-732407?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.instagram.com/mdsguty.raw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -59,7 +59,7 @@ Minha dedicação se reflete em uma jornada acadêmica e profissional diversific
 ### 💖 Conecte-se Comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/gutyerrez-roger-426851155/)
 - 📷 [Instagram (Fotografia)](https://www.instagram.com/mdsguty.raw/)
-- 🌐 [Portfólio (Em Construção)](https://gutyerrezroger.github.io)
+- 🌐 [Portfólio[(https://gutyerrezroger.github.io](https://gutyerrezroger.github.io/Dev-e-fotografo/))
 
 ---
 
