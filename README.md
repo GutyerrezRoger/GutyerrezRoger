@@ -44,7 +44,7 @@ Em paralelo, minha câmera é minha outra grande paixão. Através da **fotograf
 ### 🌱 Onde Estou Agora
 - **Atualmente Cursando:** Graduação em Análise e Desenvolvimento de Sistemas.
 - **Foco de Estudo:** Aprofundando conhecimentos em **C#**, **React** e explorando as possibilidades da **Inteligência Artificial** na programação.
-- **Próximo Grande Projeto:** Construir meu **Portfólio Pessoal**, unindo meu lado desenvolvedor e fotógrafo. (Um dos meus projetos mais importantes!)
+- **Próximo passos:** Continur a compor mais projetos ao meu **Portfólio Pessoal**, unindo meu lado desenvolvedor e fotógrafo.
 
 ---
 
@@ -58,8 +58,8 @@ Minha dedicação se reflete em uma jornada acadêmica e profissional diversific
 
 ### 💖 Conecte-se Comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/gutyerrez-roger-426851155/)
-- 📷 [Instagram (Fotografia)](https://www.instagram.com/mdsguty.raw/)
-- 🌐 [Portfólio[(https://gutyerrezroger.github.io/Dev-e-fotografo/))
+- 📷 [Instagram](https://www.instagram.com/mdsguty.raw/)
+- 🌐 [Portfólio](https://gutyerrezroger.github.io/Dev-e-fotografo/))
 
 ---
 
