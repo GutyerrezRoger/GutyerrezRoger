@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a2426,a67951,733917&height=250&section=header&text=Gutyerrez%20Roger&fontSize=90&fontColor=f2dfce&fontAlignY=35&desc=Developer%20%26%20Photographer&descAlignY=55&descSize=20" alt="Header Guty"/>
-</div>
-
-<div align="center">
+  <h1>👋 Olá, sou o Gutyerrez Roger</h1>
+  <h3>Developer & Photographer</h3>
+  <br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutyerrez-roger-426851155/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdsguty.raw/)
-  [![Portfolio](https://img.shields.io/badge/Portfólio-a67951?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gutyerrezroger.github.io/Dev-e-fotografo/)
-  
+  <a href="https://www.linkedin.com/in/gutyerrez-roger-426851155/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/mdsguty.raw/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://gutyerrezroger.github.io/Dev-e-fotografo/">
+    <img src="https://img.shields.io/badge/Portfólio-a67951?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
 </div>
 
 <br />
