@@ -61,15 +61,10 @@ Minha caixa de ferramentas atual para tirar ideias do papel:
 
 ---
 
-### ⚡ GitHub Stats
+<br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutyerrezRoger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutyerrezRoger&layout=compact&theme=dark"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GutyerrezRoger&style=flat-square&color=a67951&label=Visualizações+do+Perfil" alt="Profile views" />
+  <a href="https://gutyerrezroger.github.io/Dev-e-fotografo/">
+    <img src="https://img.shields.io/badge/Ver%20Portfólio%20Completo-a67951?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
