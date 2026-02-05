@@ -1,68 +1,71 @@
-<h1 align="center">Olá, eu sou o Guty! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a2426,a67951,733917&height=250&section=header&text=Gutyerrez%20Roger&fontSize=90&fontColor=f2dfce&fontAlignY=35&desc=Developer%20%26%20Photographer&descAlignY=55&descSize=20" alt="Header Guty"/>
+</div>
 
-<p align="center">
-  <em>Desenvolvedor Web & Fotógrafo.</em><br>
-  <em>Entre códigos e cliques, construo pontes entre o mundo digital e o mundo real.</em>
-</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutyerrez-roger-426851155/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdsguty.raw/)
+  [![Portfolio](https://img.shields.io/badge/Portfólio-a67951?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gutyerrezroger.github.io/Dev-e-fotografo/)
+  
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gutyerrez-roger-426851155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/GutyerrezRoger" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://gutyerrezroger.github.io/Dev-e-fotografo/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-732407?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mdsguty.raw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
+<br />
+
+<div align="center">
+  <h3>❝ Transformando café em código e momentos em memórias. ❞</h3>
+</div>
+
+<br />
+
+### 🚀 Sobre Mim
+
+Sou um desenvolvedor apaixonado pela interseção entre **lógica e estética**. Minha formação em Jogos Digitais e Fotografia me deu um olhar único para **UI/UX**, enquanto minha graduação em Análise e Desenvolvimento de Sistemas (ADS) solidifica minha engenharia de software.
+
+Atualmente, meu foco está em criar aplicações web modernas, performáticas e bonitas, além de desenvolver automações (RPA) que resolvem problemas reais de negócio.
+
+- 🔭 **Trabalhando em:** Refatoração de sistemas legados para arquiteturas modernas (React/Vite).
+- 📚 **Estudando:** Otimização de Frontend, Arquitetura de Software e Concursos Públicos (Área Policial/TI).
+- 📸 **Hobby:** Fotografia Urbana e de Casamentos (o que treina meu olho para Pixel Perfect).
 
 ---
 
-### 🚀 Sobre Minha Jornada
+### 🛠️ Tech Stack & Ferramentas
 
-Minha paixão por **Jogos Digitais** foi a porta de entrada para o mundo da programação. A curiosidade em entender a lógica por trás de cada linha de código me levou a uma jornada de aprendizado contínuo, me especializando em **Desenvolvimento Web** e **Desenvolvimento Full Stack**. Hoje, busco atuar em problemas reais, utilizando o código para construir soluções que impactam pessoas.
+Minha caixa de ferramentas atual para tirar ideias do papel:
 
-Em paralelo, minha câmera é minha outra grande paixão. Através da **fotografia de retratos e eventos**, busco capturar e contar histórias, congelando momentos que valem a pena ser lembrados. O ponto alto dessa paixão é meu trabalho voluntário na **Hamburgada do Bem em Recife**, onde uso a fotografia para documentar a alegria e a solidariedade.
+<div align="center">
 
----
+| **Frontend Moderno** | **Backend & Automação** | **Design & Criativo** |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-ff69b4?style=for-the-badge) |
 
-### 💻 Habilidades e Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
 
-### 🌱 Onde Estou Agora
-- **Atualmente Cursando:** Graduação em Análise e Desenvolvimento de Sistemas.
-- **Foco de Estudo:** Aprofundando conhecimentos em **C#**, **React** e explorando as possibilidades da **Inteligência Artificial** na programação.
-- **Próximo passos:** Continur a compor mais projetos ao meu **Portfólio Pessoal**, unindo meu lado desenvolvedor e fotógrafo.
+### 🏆 Projetos em Destaque
+
+| Projeto | Tech | Descrição |
+| :--- | :--- | :--- |
+| **[Docinhos de Mainha](https://gutyerrezroger.github.io/Decore-Seu-Bolo/)** | `React` `Tailwind` `Vite` | Plataforma de encomendas para confeitaria com cálculo de preço em tempo real e integração direta com API do WhatsApp. |
+| **[Portfólio Profissional](https://gutyerrezroger.github.io/Dev-e-fotografo/)** | `React` `Tailwind` `Masonry` | SPA moderna com galeria de fotos dinâmica estilo Pinterest e vitrine de projetos Dev. |
+| **Automação Corporativa** | `Python` `Selenium` | Robô (RPA) desenvolvido para automatizar processos repetitivos em sistemas legados, aumentando eficiência operacional. |
 
 ---
 
-### 🎓 Formação & Certificações
-Minha dedicação se reflete em uma jornada acadêmica e profissional diversificada:
-- **Pós-Graduação:** Desenvolvimento Full Stack, Desenvolvimento Mobile.
-- **Graduação:** Jogos Digitais, e Análise e Desenvolvimento de Sistemas (em andamento).
-- **Algumas Certificações:** Formação em Dart (Alura), ChatGPT e Programação (Alura), Programação PHP (UnisãoMiguel), Web Design (Origamid) e mais.
+### ⚡ GitHub Stats
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutyerrezRoger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutyerrezRoger&layout=compact&theme=dark"/>
+</div>
 
-### 💖 Conecte-se Comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/gutyerrez-roger-426851155/)
-- 📷 [Instagram](https://www.instagram.com/mdsguty.raw/)
-- 🌐 [Portfólio](https://gutyerrezroger.github.io/Dev-e-fotografo/))
+<br/>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNlZnNkdHJxamRkbDl5aWxweHV2eG9jZWI3NXdybGM4Y2lodThwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NFA61GS9qKZ68/giphy.gif" width="300" alt="GIF de um gato lendo um livro" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GutyerrezRoger&style=flat-square&color=a67951&label=Visualizações+do+Perfil" alt="Profile views" />
+</div>
